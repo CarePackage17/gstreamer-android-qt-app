@@ -71,3 +71,6 @@ Thumbs.db
 *.dll
 *.exe
 
+# GStreamer android binaries
+gstreamer-1.0/
+
